@@ -20,7 +20,7 @@ const bigString = () => {
     // random number between 0-19 to help pick the closing
     const randomClosingNumber = Math.floor(Math.random()*20)
         
-    return `\n\n\t${introArray[randomIntroNumber]}\n\n\t${intro}\n\n\n\t\t"${jokesArray[randomJokeNumber]}"\n\n\n\tThat's all for today. ${closingArray[randomClosingNumber]}!\n\n`;
+    return `\n\n\t${introArray[randomIntroNumber]}\n\n\n\t${intro}\n\n\n\t\t"${jokesArray[randomJokeNumber]}"\n\n\n\tThat's all for today. ${closingArray[randomClosingNumber]}!\n\n`;
 }
 
 console.log(bigString());
