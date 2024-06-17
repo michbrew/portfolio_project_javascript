@@ -1,16 +1,18 @@
 
 
 const bigString = () => {
-    
+
     const jokesArray = require("./jokes");
 
-    const introString = "Here is the Dad Joke of the Day, I hope that you enjoy it as much as I did!";
+    const closingArray = require("./closings");
 
-    const closingString = "Until next time, keep smiling!";
-
-    const randomNumber = Math.floor(Math.random()*150);
+    const intro = "Here is the Dad Joke of the Day, I hope that you enjoy it as much as I did!";
     
-    return `\n\n\t${introString}\n\n\n\t\t"${jokesArray[randomNumber]}"\n\n\n\t${closingString}\n\n`;
+    const randomJokeNumber = Math.floor(Math.random()*150);
+
+    const randomClosingNumber = Math.floor(Math.random()*20)
+    
+    return `\n\n\t${intro}\n\n\n\t\t"${jokesArray[randomJokeNumber]}"\n\n\n\tThat's all for today. ${closingArray[randomClosingNumber]}!\n\n`;
 }
 
 console.log(bigString());
