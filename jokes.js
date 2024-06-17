@@ -1,3 +1,6 @@
+
+//This array contains 150 jokes taken from Country Living.
+
 const jokesArray = [
 
     "I'm afraid for the calendar. Its days are numbered.",
