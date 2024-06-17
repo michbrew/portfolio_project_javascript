@@ -22,7 +22,4 @@ const introArray = [
     `How you doin’?`
 ]
 
-//console.log(introArray.length);
-
-
 module.exports = introArray;

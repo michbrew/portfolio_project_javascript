@@ -21,13 +21,4 @@ const closingArray= [
     `It has been emotional, bye`
 ];
 
-console.log(closingArray.length);
-
-
-
-
-
-
-
-
 module.exports = closingArray;
