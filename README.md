@@ -1,8 +1,8 @@
 # Dad Jokes Portfolio Project
 
-## Description
+## Description:
 
-This project was created as part of my Codecademy Full Stack Course.  
+This project was created as part of my Codecademy Full Stack Engineer Course.  
 
 The purpose of the project is to return a truly random message each time made up of 3 random parts.  
 
@@ -19,7 +19,7 @@ The purpose of the project is to return a truly random message each time made up
 
 * Please note you must have node.js installed to use. [Read more about installing node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
 
-## Collaborators
+## Collaborators:
 
 #### A special thanks to the below websites for helping to provide the intros, amazing dad jokes, and funny closings!
 
