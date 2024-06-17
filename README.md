@@ -15,9 +15,9 @@ The purpose of the project is to return a truly random message each time made up
 2. Copy them to your computer
 3. Navigate to the directory you stored them
 4. In terminal type "node main.js"
-5. Laugh uncontrollably 🤣!
+5. Laugh uncontrollably 🤣 because you have a **terrible** sense of humor like me!
 
-* Please note you must have node.js installed to use. [Read more about installing node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
+* Please note you **must** have node.js installed to use. [Read more about installing node.js](https://nodejs.org/en/learn/getting-started/how-to-install-nodejs)
 
 ## Collaborators:
 
